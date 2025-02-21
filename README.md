@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React  
-- **Backend (Learning):** .js,   
+- **Backend (Learning):** .js,python   
 - **Tools:** Git, GitHub, VS Code  
 
 Let's connect and build something amazing together! 🚀  
