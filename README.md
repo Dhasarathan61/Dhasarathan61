@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 - 👀 I’m interested in Frontend Development, UI/UX, and building responsive web applications.  
-- 🌱 Currently enhancing my skills in JavaScript, React, and exploring backend technologies.  
+- 🌱 Currently enhancing my skills in JavaScript, and exploring backend technologies.  
 - 💞️ Looking to collaborate on open-source projects and innovative web applications.  
 - 📫 Reach me at [dhasarathandhas28@gmail.com]  
 - 😄 Pronouns: He/Him  
